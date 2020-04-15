@@ -10,7 +10,8 @@ echo Fetching dependencies...
 echo 
 sleep 1
 sudo apt update && sudo apt -y upgrade && sudo apt -y dist-upgrade
-sudo apt install -y libc6 libncurses5 libpango-1.0-0 libpangocairo-1.0-0 libpangoft2-1.0-0 libatk1.0-0 libgdk-pixbuf2.0-0 libglib2.0-0 libfontconfig1 libfreetype6 libgtk-3-0 libusb-1.0-0 libplist3 usbmuxd
+
+sudo apt install -y usbmuxd libc6 libncurses5 libpango-1.0-0 libpangocairo-1.0-0 libpangoft2-1.0-0 libatk1.0-0 libgdk-pixbuf2.0-0 libglib2.0-0 libfontconfig1 libfreetype6 libgtk-3-0 libusb-1.0-0 libplist3
 echo 
 echo Dependencies installed!
 sleep 2
