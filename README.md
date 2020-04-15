@@ -1,4 +1,4 @@
-# Checkra1n-Installer-Updater
+# Checkra1n-Installer-Updater for RPi4
 
 How to install:
 
