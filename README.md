@@ -1,1 +1,1 @@
-# Easy-Checkra1n-Update
+# Checkra1n-Update
