@@ -1,4 +1,4 @@
-# Checkra1n-Installer-Updater for RPi4
+# Checkra1n-Installer-Updater for Raspberry Pi 4
 
 How to install:
 
