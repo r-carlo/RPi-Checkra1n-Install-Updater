@@ -10,6 +10,6 @@ OR
 
 Run this command in terminal: 
 
-```js
+```html
 curl -s https://raw.githubusercontent.com/r-carlo/RPi-Checkra1n-Install-Updater/master/checkra1n_update.sh | sudo bash
 ```
