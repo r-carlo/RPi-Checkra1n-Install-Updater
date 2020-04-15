@@ -32,7 +32,7 @@ sudo wget https://assets.checkra.in/downloads/linux/cli/arm/1ed46fb34c72ee942a1a
 sudo cp checkra1n-armel checkra1n
 sudo rm checkra1n-armel
 sudo chmod +x checkra1n
-echo Checkra1n Installed/updated! 
+echo Checkra1n Installed/Updated! 
 sleep 2
 echo Use 'sudo ./checkra1n' or use as executable to run Checkra1n.
 sleep 2
