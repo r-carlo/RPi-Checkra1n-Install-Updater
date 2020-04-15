@@ -37,6 +37,5 @@ sleep 2
 echo Use 'sudo ./checkra1n' to run checkra1n.
 sleep 2
 echo 
-echo 
 
 /bin/bash
