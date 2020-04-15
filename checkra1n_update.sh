@@ -34,7 +34,7 @@ sudo rm checkra1n-armel
 sudo chmod +x checkra1n
 echo Checkra1n Installed/updated! 
 sleep 2
-echo Use 'sudo ./checkra1n' to run checkra1n.
+echo Use 'sudo ./checkra1n' or use as executable to run Checkra1n.
 sleep 2
 echo 
 
