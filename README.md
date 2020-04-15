@@ -1,4 +1,4 @@
-# Checkra1n-Update
+# Checkra1n-Installer-Updater
 
 How to install:
 
