@@ -7,8 +7,8 @@ echo .
 sleep 1
 
 echo Fetching dependencies...
-echo 
 sleep 1
+echo 
 sudo apt update && sudo apt -y upgrade && sudo apt -y dist-upgrade
 
 sudo apt install -y usbmuxd libc6 libncurses5 libpango-1.0-0 libpangocairo-1.0-0 libpangoft2-1.0-0 libatk1.0-0 libgdk-pixbuf2.0-0 libglib2.0-0 libfontconfig1 libfreetype6 libgtk-3-0 libusb-1.0-0 libplist3
@@ -22,8 +22,8 @@ echo
 sleep .2
  
 echo Fetching checkra1n...
-echo 
 sleep 2
+echo 
 
 cd /home/pi
 sudo rm -f checkra1n
@@ -35,7 +35,7 @@ sudo chmod +x checkra1n
 echo Checkra1n Installed/updated! 
 sleep 2
 echo Use 'sudo ./checkra1n' to run checkra1n.
-echo 
 sleep 2
+echo 
 
 /bin/bash
